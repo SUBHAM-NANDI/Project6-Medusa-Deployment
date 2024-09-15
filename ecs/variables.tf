@@ -6,7 +6,7 @@ variable "db_user" {
   default = "admin"
 }
 variable "db_password" {
-    default = "MyS3cur3Passw0rd!"
+    default = ""
 }
 variable "db_endpoint" {
   
