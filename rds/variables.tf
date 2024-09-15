@@ -13,7 +13,7 @@ variable "vpc_id" {
 }
 
 variable "db_password" {
-  default = "MyS3cur3Passw0rd!"
+  default = ""
 }
 
 variable "public_subnets" {
